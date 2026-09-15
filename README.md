@@ -1,6 +1,14 @@
 # indonesia-food-price-monitoring
 Exploratory monitoring of food-price shocks, persistence, recovery, and regional disparities across Indonesian provinces.
 
+overview data :
+- 32 provinces
+- 12 commodities
+- 60 months
+- 23,040 observations
+- 22,979 observed prices
+- 61 missing values
+- Snapshot 2025: 20 commodities dan 38 province (tidak digunakan untuk processing)
 
 # From Price Spike to Monitoring Signal
 
@@ -28,10 +36,15 @@ The result is a set of analytical tables and interactive Tableau dashboards for 
 Longitudinal analysis
 
 • 23,040 expected province–commodity–month observations
+
 • 22,979 observed prices and 61 retained missing values
+
 • 382 eligible province–commodity series; 2 structurally incomplete series excluded
+
 • 12 consistently recorded commodities across 32 provinces
+
 • 60 consecutive months from January 2021 to December 2025
+
 
 Missing prices were retained rather than imputed to avoid introducing artificial price movements. Later-introduced provinces and commodities were excluded from the longitudinal panel to preserve comparability.
 
