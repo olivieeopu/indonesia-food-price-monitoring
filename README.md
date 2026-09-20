@@ -52,6 +52,31 @@ Additional 2025 snapshot
 
 A separate 2025 snapshot covers 20 commodities across all 38 provinces, with 9,120 expected observations and 8,867 observed prices. It is kept separate from the longitudinal analysis because the wider coverage does not have equivalent five-year history.
 
+# 4. Business Questions
+
+This project addresses the following decision-oriented questions:
+
+1. How did food prices change between 2021 and 2025?
+
+2. Which commodities experienced the greatest long-term price increases and volatility?
+
+3. Which price spikes were isolated local events, and which developed into geographically widespread shocks?
+
+4. Which commodity shocks combined the greatest geographical breadth with the highest price-change intensity?
+
+5. Which provinces tended to show early price-pressure signals before similar movements appeared more broadly?
+
+6. Which provinces recovered most quickly after a food-price spike?
+
+7. Which commodities were most likely to remain elevated after an initial spike?
+
+8. Which commodities frequently experienced simultaneous price pressure?
+
+9. Did regional price disparities return to normal after a shock or remain persistently wide?
+
+10. Which province–commodity combinations should be prioritized in a food-price monitoring watchlist?
+
+
 # Key findings
 
 • Packaged cooking oil recorded the largest increase in the national median price index, reaching 164.38 in December 2025 relative to January 2021 = 100. Shallots followed at 155.32.
